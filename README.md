@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou a @NextStepGame - The Next Step Game
 - 🎮 Projeto de Marketplace de games, desenvolvido no Bootcamp Generation, utilizando as linguagens Java e SQL, framework Spring Boot.
-- 💞️ Colaboradores: Alef, Alexandre, Beatriz, Clayton, Jessica, Vitor e Viviane 
+- 💞️ Colaboradores: Alef, Alexandre, Beatriz, Clayton, Jessica, Victor e Viviane 
 - 📫 Entre em contato pelo email nsg.generation@gmail.com
 
 <!---
